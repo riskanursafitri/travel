@@ -2,9 +2,9 @@
 
 class database{
 
-	public $_host = "localhost";
-		public $_username = "root";
-		public $_password = "";
+	public $_host = "10.0.0.190";
+		public $_username = "admin";
+		public $_password = "4*4Samadengan16";
 		public $_database = "tour";
 		public $_connection;
 
